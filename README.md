@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheSparkPlugg
+- 👀 I’m interested in anything related to technology, although i dont have much knowledge on it.
+- 🌱 I’m currently learning programming language lua, (From roblox studio as a starter)
+- 📫 You can reach me on Discord! (Spark Plugg#2210)
